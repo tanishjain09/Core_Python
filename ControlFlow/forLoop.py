@@ -14,3 +14,10 @@ for i in list: #for loop iterating over list
 print("Table of 5")
 for i in range(1,11):
     print(f"5 X {i} = {i*5}")
+
+#for loop with else statment
+list = []
+for i in list:
+    print(list[i])
+else:
+    print("List is empty")

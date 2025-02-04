@@ -15,6 +15,7 @@ print(len(marks))
 #list in python can store element in  different types(int,float,str)
 #while in java we can't
 
-student = ["Tanish",19,178.7,"Vadodara"]
+student = ["Tanish",19,178.7,"Vadodara"] #list having more than one data type in it
 print(student[0])
 #student[1] = 20 ->possible because list are mutable in python
+print(student)
