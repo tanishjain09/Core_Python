@@ -20,7 +20,7 @@ Welcome to my **Core Python Learning Journey**! This repository is where I docum
 | 6. | File Handling: Reading from and writing to files | ❌ |  
 | 7. | Object-Oriented Programming (OOP): Classes, objects, inheritance, and polymorphism | ❌ |  
 | 8. | Error Handling: Try-except blocks, custom exceptions | ✅ |  
-| 9. | Modules and Packages: Importing modules, creating custom packages | ❌ Not |  
-| 10. | Advanced Topics: Decorators, generators, and iterators | ❌ Not |  
+| 9. | Modules and Packages: Importing modules, creating custom packages | ❌ |  
+| 10. | Advanced Topics: Decorators, generators, and iterators | ❌ |  
 
 ✅ **Completed** | ❌ **Not Started** 
