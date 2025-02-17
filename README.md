@@ -17,10 +17,10 @@ Welcome to my **Core Python Learning Journey**! This repository is where I docum
 | 3. | Control Flow: Conditional statements (if, elif, else), loops (for, while) | ✅ |  
 | 4. | Functions: Defining functions, arguments, return values, and lambda functions | ✅ |  
 | 5. | Data Structures: Lists, tuples, sets, dictionaries, and their operations | ✅ |  
-| 6. | File Handling: Reading from and writing to files | ❌ |  
+| 6. | File Handling: Reading from and writing to files | ✅ |  
 | 7. | Object-Oriented Programming (OOP): Classes, objects, inheritance, and polymorphism | ❌ |  
 | 8. | Error Handling: Try-except blocks, custom exceptions | ✅ |  
-| 9. | Modules and Packages: Importing modules, creating custom packages | ❌ Not |  
-| 10. | Advanced Topics: Decorators, generators, and iterators | ❌ Not |  
+| 9. | Modules and Packages: Importing modules, creating custom packages | ❌ |  
+| 10. | Advanced Topics: Decorators, generators, and iterators | ❌ | 
 
 ✅ **Completed** | ❌ **Not Started** 
